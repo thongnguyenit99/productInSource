@@ -1,0 +1,15 @@
+.inventory-source-new [data-index=products] {
+    display: none;
+}
+
+.inventory-source-edit [data-index=add_products_container] {
+    padding-left: 0px;
+}
+
+.inventory-source-edit [data-index=add_products_container] .admin__field-complex-elements {
+    float: left;
+}
+
+.inventory-source-edit [data-index=add_products_container] .admin__field-complex-elements [data-index=add_products_button] {
+    margin-left: 0px;
+}
